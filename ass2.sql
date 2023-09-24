@@ -98,7 +98,7 @@ mysql> desc student_info;
 3 rows in set (0.01 sec)
 
 mysql>
-mysql> ALTER TABLE student_info ADD COLUMN teacher_name VARCHAR(30) DEFAULT  'DEEPALI';
+mysql> ALTER TABLE student_info ADD COLUMN teacher_name VARCHAR(30) DEFAULT  'YOGITA';
 Query OK, 0 rows affected (0.01 sec)
 Records: 0  Duplicates: 0  Warnings: 0
 
